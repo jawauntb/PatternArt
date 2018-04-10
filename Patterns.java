@@ -1,5 +1,4 @@
-// Fun with matrices.
-//                               L. McGeoch, 3/2004
+// J Brown 2016
 
 public class Patterns {
     
